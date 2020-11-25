@@ -1,2 +1,2 @@
 # universe
-presentation of the universe
+https://github-pavel.github.io/universe/
