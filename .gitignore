@@ -1,5 +1,8 @@
-# PHPStorm
+# PhpStorm
 .idea
+
+# package-lock
+package-lock.json
 
 # Logs
 logs

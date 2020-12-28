@@ -1,2 +1,2 @@
-# universe
-https://github-pavel.github.io/universe/build
+# gulp-blank
+gulp preparation for projects

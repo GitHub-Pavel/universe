@@ -1,1 +1,1 @@
-# folder for js scripts
+# folder for js libraries

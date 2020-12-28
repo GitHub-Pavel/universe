@@ -1,42 +1,10 @@
-@import "lib/smart-grid.scss";
+/*
+ * ==================================================================================
+ * includes
+ * ==================================================================================
+ */
+@import "_variables";
 
-@import "colors.scss";
-@import "variables.scss";
-
-@import "loader.scss";
-@import "setting.scss";
-@import "text.scss";
-
-// header
-.header {
-  height: 100vh;
-  width: 100vw;
-  position: relative;
-  display: flex;
-  align-items: center;
-  overflow-x: hidden;
-
-  &__video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    transition: transform .05s linear;
-  }
-
-  &__offer {
-    position: relative;
-    z-index: 1;
-  }
-}// header
-
-section {
-  height: 100vh;
-  width: 100vw;
-  overflow: hidden;
-}
-
-.animate__animated {
-  opacity: 0;
-}
+@import "_fonts";
+@import "_settings";
+@import "_default";
